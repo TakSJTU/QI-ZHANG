@@ -1,5 +1,7 @@
 Qi Zhang is currently an Ph.D. candidate at the Department of Organization and Management, Antai College of Economics and Management, Shanghai Jiao Tong University. He also visted the Department of Management and Strategy, Business School, the University of Hong Kong from 2020 to 2022. His research interests lie in stress and recovery, especially for work-family conflict and workplace relationships. He also focuses on leadership and aging
 
+![Image text](Screenshots/github.jpeg) 
+
 ## Publications
 
 (# indicates two authors share equal contribution and authorship; * indicates corresponding author)
