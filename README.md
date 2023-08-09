@@ -1,4 +1,4 @@
-Qi Zhang is currently an Assistant Professor at the  Department of Human Resources Management, Management School, Shen Zhen University. He got his Ph.D. degree in Business Administration from Antai College of Economics and Management, Shanghai Jiao Tong University. He also visited the Department of Management and Strategy, Business School, the University of Hong Kong from 2020 to 2022. His research interests lie in stress and recovery, especially for work-family conflict and workplace relationships. He also focuses on leadership and aging
+Qi Zhang is currently an Assistant Professor at the  Department of Human Resources Management, Management School, Shen Zhen University. He got his Ph.D. degree in Business Administration from Antai College of Economics and Management, Shanghai Jiao Tong University. He also visited the Department of Management and Strategy, Business School, the University of Hong Kong from 2020 to 2022. His research interests lie in stress and recovery, especially for work-family conflict and workplace relationships. He also focuses on leadership and aging.
 
 ## Publications
 
