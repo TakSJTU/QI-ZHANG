@@ -1,16 +1,16 @@
-Qi Zhang is currently an Ph.D. candidate at the Department of Organization and Management, Antai College of Economics and Management, Shanghai Jiao Tong University. He also visted the Department of Management and Strategy, Business School, the University of Hong Kong from 2020 to 2022. His research interests lie in stress and recovery, especially for work-family conflict and workplace relationships. He also focuses on leadership and aging
-
-![Image text](Screenshots/github.jpeg) 
+Qi Zhang is currently an Assistant Professor at the  Department of Human Resources Management, Management School, Shen Zhen University. He got his Ph.D. degree in Business Administration from Antai College of Economics and Management, Shanghai Jiao Tong University. He also visited the Department of Management and Strategy, Business School, the University of Hong Kong from 2020 to 2022. His research interests lie in stress and recovery, especially for work-family conflict and workplace relationships. He also focuses on leadership and aging
 
 ## Publications
 
 (# indicates two authors share equal contribution and authorship; * indicates corresponding author)
 
-- Zheng#, X. S., **Zhang#***, Q., Li, X. X., Wu, B. Q. (Online). Being busy, feeling poor: Development and validation of the perceived time poverty scale. _International Journal of Selection and Assessment_.
+- Yuan, Y., **Zhang***, Q. Yang*, M. X. (2023). Such a high cost: the positive effect of leader humor on employee incivility via psychological safety. _Asian Business and Management_, 22(2), 529-548.
 
-- **Zhang*, Q.**, Zheng, X. S., Yao, Y., Dube, F. N. M. (In press). A game of reciprocity? The effect of leader-follower moqi congruence on work outcomes. _Personnel Review_.
+- **Zhang*, Q.**, Zheng, X. S., Yao, Y., Dube, F. N. M. (2023). A game of reciprocity? The effect of leader-follower moqi congruence on work outcomes. _Personnel Review_, 52(5), 1462-1477.
 
-- Yuan, Y., **Zhang***, Q. Yang*, M. X. (In press). Such a high cost: The positive effect of leader humor on employee incivility. _Asian Business and Management_.
+- Zheng#, X. S., **Zhang#***, Q., Li, X. X., Wu, B. Q. (2022). Being busy, feeling poor: Development and validation of the perceived time poverty scale. _International Journal of Selection and Assessment_, 30(4), 596-613.
+  
+- Yuan, Y., **Zhang***, Q. (2022).  Exploring the buffer effect of intrinsic interest on the relationship between idea implementation and negative workplace gossip. _Nankai Business Review International_, Online.
 
 - Li, L., Zheng*, X., & **Zhang, Q.** (2022). Does leaders' adoption of employee voice influence employee work engagement. _Personnel Review_, 51(2), 683-698.
 
@@ -18,7 +18,7 @@ Qi Zhang is currently an Ph.D. candidate at the Department of Organization and M
 
 (# indicates two authors share equal contribution and authorship; * indicates corresponding author)
 
-- Yuan, Y., **Zhang***, Q. The cost of innovation: The positive effect of idea implementation on negative workplace gossip. Under review at _Nankai Business Review International_.
+- Yang, L. Q., **Zhang***, Q.  _(1st Revise & Resubmit)_. [Understanding the joint effect of authoritative and benevolent leadership on work outcomes]. _Asia Pacific Journal of Management_.
 
 ## Selceted Works in Progress
 
