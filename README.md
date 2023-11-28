@@ -39,8 +39,8 @@ Qi Zhang is currently an Assistant Professor at the  Department of Human Resourc
 ## Teaching Experiences
 
   **Course Instructor, Shenzhen University**
-  - Business Statistics （0408120001）-- Fall 2023
-  
+  - Business Statistics (0408120001) -- Fall 2023
+
   **Teaching Assistant, The University of Hong Kong, Business School**
   - Managing Across Cultures (PMGM7002) -- Winter 2022
     - Responsibilities: I led discussions to enhance students' understanding of course concepts, provided instructions on group projects, coordinated group collaborations, and provided feedback on their performance on the projects.
@@ -50,8 +50,7 @@ Qi Zhang is currently an Assistant Professor at the  Department of Human Resourc
   - Doctoral Summer School of Business Administration -- Summer 2019
   - Organizational Behavior (MBA)-- Spring 2019
   - Human Resource Management (MBA) -- Fall 2018
-  - Graduate Teaching Assistant Training Assessment Certificate (Certificate Number:
-TA201821319)
+  - Graduate Teaching Assistant Training Assessment Certificate (Certificate Number: TA201821319)
 
   **Course Instructor, Tianhua College of Shanghai Normal University**
   - Principles of management -- Fall 2019
