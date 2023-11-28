@@ -20,11 +20,9 @@ Qi Zhang is currently an Assistant Professor at the  Department of Human Resourc
 
 - Yang, L. Q., **Zhang***, Q.  _(1st Revise & Resubmit)_. [Understanding the joint effect of authoritative and benevolent leadership on work outcomes]. _Asia Pacific Journal of Management_.
 
-## Selceted Works in Progress
+## Selected Works in Progress
 
 - **Zhang, Q.**, Zhang, Y. W., Yuan, Y., Zheng, X. S. Charting new terrain in impression management: why and when helping behavior can enable followers to cope with leader moral scrutiny. Projected to be submitted to _Journal of Business Ethics_.
-
-- **Zhang, Q.**, Geng, J. H., Yao, Y., Zheng, X. S. Adaptive or maladaptive? an examination of the relationship between COVID-19 induced routine disruption and work engagement. Projected to be submitted to _Journal of Occupational and Organizational Psychology_.
 
 - **Zhang, Q.**, Zhang, Y. W., Gu, F. Give and take: A resource exchange perspective on work interfering with family. Manuscript drafting.
 
@@ -38,11 +36,14 @@ Qi Zhang is currently an Assistant Professor at the  Department of Human Resourc
 
   _Zhang, Q. contributed to analyzing data, writing, reviewing, and editing the final research report of the project_.
 
-## Teaching Experences
+## Teaching Experiences
 
-  **Teaching Assistant, The University of Hong Kong, Business school**
+  **Course Instructor, Shenzhen University**
+  - Business Statistics （0408120001）-- Fall 2023
+  
+  **Teaching Assistant, The University of Hong Kong, Business School**
   - Managing Across Cultures (PMGM7002) -- Winter 2022
-    - Responsibilities: I led discussions to enhance students understanding of course concepts, provided instructions on group projects, coordinated group collaborations, and provided feedback on their performance on the projects.
+    - Responsibilities: I led discussions to enhance students' understanding of course concepts, provided instructions on group projects, coordinated group collaborations, and provided feedback on their performance on the projects.
     
   **Teaching Assistant, Shanghai Jiao Tong University**
   - Human Resource Management (MBA) -- Fall 2019
@@ -54,11 +55,11 @@ TA201821319)
 
   **Course Instructor, Tianhua College of Shanghai Normal University**
   - Principles of management -- Fall 2019
-    - Responsibilities: I used a combination of group discussions, videos, case studies, and experiential learning activities to facilitate students learning processes. Also, I designed and taught several topics including organizational culture and social network analysis. These lectures were particularly designed so that students could connect class materials to their own experiences, facilitating a relatable teaching environment. For example, I used the social networks of the classes the students were taking in the university to demonstrate how the technique of social network analysis could be used to identify interpersonal problems in the organization, and how employees could gain more social capital by obtaining a better understanding of their position in the social network.
+    - Responsibilities: I used a combination of group discussions, videos, case studies, and experiential learning activities to facilitate students' learning processes. Also, I designed and taught several topics including organizational culture and social network analysis. These lectures were particularly designed so that students could connect class materials to their own experiences, facilitating a relatable teaching environment. For example, I used the social networks of the classes the students were taking in the university to demonstrate how the technique of social network analysis could be used to identify interpersonal problems in the organization, and how employees could gain more social capital by obtaining a better understanding of their position in the social network.
 
 ## Selected Awards
 - SJTU Overseas Study Grants for Excellent Ph.D. Students
-- Scholarship for high level academic papers of postgraduate, ACEM, SJTU
+- Scholarship for high-level academic papers of postgraduate, ACEM, SJTU
 
 ## Academic Service
 - Reviewer, Academy of Management Annual Meetings (OB, MOC divisions), 2021-present
